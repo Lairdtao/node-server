@@ -1,6 +1,7 @@
 listen(9000)
 端口为9000
 
+进入/text.html查看静态页面
 
 通过以下代码来实现路由
 http.createServer(function(req, res) {
